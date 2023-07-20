@@ -1,4 +1,4 @@
-
+//this is a comment from test branch
 
 //asdasdasdsad
 function checkBrackets (str) { //функция проверки скобок как в 1 лабе
