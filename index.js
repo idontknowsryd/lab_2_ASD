@@ -1,5 +1,7 @@
 //update from testbranch
 
+//update from master
+
 function checkBrackets (str) { //функция проверки скобок как в 1 лабе
   let bracketsArr = []; //массив скобок
 
